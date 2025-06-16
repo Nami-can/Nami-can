@@ -1,7 +1,12 @@
 
 ![aniyuki-hello-31](https://github.com/user-attachments/assets/7eac1dcb-398f-412d-9f0d-72b39481fcca)
 
-##         Hello 👋
+<p align="center">
+   <b> Hello 👋 </b>
+</p>  
+
+
+
 
 
 <!--
