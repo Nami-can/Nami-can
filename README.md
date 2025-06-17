@@ -1,4 +1,5 @@
-![99px_ru_wallpaper_356711_portret_lucy_v_polumrake_art_k_igre_cyberpunk](https://github.com/user-attachments/assets/9f517f7f-b250-4700-9a05-c984fcf6f7a8)
+![photo_2025-06-17_12-05-42](https://github.com/user-attachments/assets/b2cd376d-e7a7-40b7-9c94-95e3ff00f73a)
+
 
 
 
