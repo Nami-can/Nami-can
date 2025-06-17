@@ -1,4 +1,5 @@
-![photo_2025-06-17_12-05-42](https://github.com/user-attachments/assets/b2cd376d-e7a7-40b7-9c94-95e3ff00f73a)
+![photo_2025-06-17_12-06-46](https://github.com/user-attachments/assets/0c229071-1f23-4c66-97d4-c8d56b5a9b12)
+
 
 
 
