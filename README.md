@@ -13,9 +13,9 @@
 
 
 
-<div align="center">
-   <img src="https://github.com/user-attachments/assets/9c037dec-0a03-435e-ae46-7bae170bf6eb" width="400" alt="Приветствие">
-</div>
+#<div align="center">
+#   <img src="https://github.com/user-attachments/assets/9c037dec-0a03-435e-ae46-7bae170bf6eb" width="400" #alt="Приветствие">
+#</div>
  
 
 <p align="center">
