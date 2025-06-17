@@ -1,22 +1,7 @@
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8a187499-d796-4ff4-9e8d-2c79e23875bb" width="400" alt="Ghb">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-//<div align="center">
-//<img src="https://github.com/user-attachments/assets/9c037dec-0a03-435e-ae46-7bae170bf6eb" width="400" /////////alt="Приветствие">
-//</div>
- 
+</div> 
 
 <p align="center">
    <b> Hello 👋 </b>
