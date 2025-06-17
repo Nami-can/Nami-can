@@ -1,7 +1,5 @@
-![Animated GIF](https://github.com/user-attachments/assets/f9787ae4-0c7a-41d4-8e04-873e204e7051)
-
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/8a187499-d796-4ff4-9e8d-2c79e23875bb" width="400" alt="Ghb">
+    <img src="https://github.com/user-attachments/assets/8a187499-d796-4ff4-9e8d-2c79e23875bb" width="100" alt="Ghb">
 </div> 
 
 <p align="center">
