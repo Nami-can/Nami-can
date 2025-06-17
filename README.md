@@ -1,3 +1,12 @@
+![Uploading 99px_ru_wallpaper_356711_portret_lucy_v_polumrake_art_k_igre_cyberpunk.jpg…]()
+
+
+
+
+
+
+
+
 
 <div align="center">
    <img src="https://github.com/user-attachments/assets/9c037dec-0a03-435e-ae46-7bae170bf6eb" width="400" alt="Приветствие">
