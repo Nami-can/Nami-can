@@ -20,6 +20,14 @@
     <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="30">
     <h2>About me</h2>
 </p>
+
+
+<p style="border: 1px solid #000; width: 250px;">
+    <strong>🐧Linux-admin</strong> <br>
+    <strong>🐍 Python Development</strong> <br>
+    <strong>🌐 Frontend</strong> <br>
+
+</p>
 <!--
 **Nami-can/Nami-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
