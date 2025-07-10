@@ -16,11 +16,10 @@
 <br>
 <br>
 <br>
-<p style="margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/7ccf1009-679c-4d6f-baee-4fae9a5b2d2b" alt="Test" width="50">
-    About me
+<p align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/assets/line.gif" alt="divider" width="100%">
+  <h2 align="center">About me</h2>
 </p>
-
 <!--
 **Nami-can/Nami-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
