@@ -24,8 +24,8 @@
 <style>
     .img {
         background-color: black;
-        height: 2px;
-        margin: 30px;
+        height: 2;
+        margin: 30;
     }
 </style>
 
