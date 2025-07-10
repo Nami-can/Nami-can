@@ -17,7 +17,7 @@
 <br>
 <br>
 <p style="margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="30">
+    <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="30">
     <h2>About me</h2>
 </p>
 <!--
