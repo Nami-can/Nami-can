@@ -1,12 +1,10 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/d4d31bc4-0413-4168-a097-08d31b2061e5" width="800" alt="God">
-</div> 
-<br>
-<br>
-<p align="center">
-    <b>Hello 👋</b>
-</p>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=430&height=60&lines=Hi%2C+my+name+is+Nami-sam" alt="Typing SVG" />
+    </a>
+
+</div>
 
 
 
