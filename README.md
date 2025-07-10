@@ -1,15 +1,11 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/038ba1a8-9177-4889-9ea5-356e2aeae7fb" width="1200" alt="Ghb">
+    <img src="https://github.com/user-attachments/assets/038ba1a8-9177-4889-9ea5-356e2aeae7fb" width="1200" alt="God">
 </div> 
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/8af7998e-1b46-45aa-b273-4e7695681592" width="100" alt="Ghb">
-</div> 
-
+<br>
+<br>
 <p align="center">
-   <b> Hello 👋 </b>
-</p>  
-
+    <b>Hello 👋</b>
+</p>
 
 
 
