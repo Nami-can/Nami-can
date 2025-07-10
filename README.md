@@ -17,8 +17,8 @@
 <br>
 <br>
 <p style="margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="100%">
-  <h2 align="center">About me</h2>
+  <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="30">
+  <h2>About me</h2>
 </p>
 <!--
 **Nami-can/Nami-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
