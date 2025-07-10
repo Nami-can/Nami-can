@@ -15,7 +15,7 @@
 
 
 <p>
-    <img src="https://github.com/user-attachments/assets/7ccf1009-679c-4d6f-baee-4fae9a5b2d2b" alt="Test" width="150">
+    <img src="https://github.com/user-attachments/assets/7ccf1009-679c-4d6f-baee-4fae9a5b2d2b" alt="Test" width="50">
     About me
 </p>
 
