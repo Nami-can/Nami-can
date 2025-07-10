@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-<p class="img">
+<p style="margin: 10px;">
     <img src="https://github.com/user-attachments/assets/7ccf1009-679c-4d6f-baee-4fae9a5b2d2b" alt="Test" width="50">
     About me
 </p>
