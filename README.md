@@ -21,15 +21,6 @@
     About me
 </p>
 
-<style>
-    .img {
-        background-color: black;
-        height: 2;
-        margin: 30;
-    }
-</style>
-
-
 <!--
 **Nami-can/Nami-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
