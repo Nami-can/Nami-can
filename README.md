@@ -7,10 +7,15 @@
 </div>
 <br>
 <br>
+<br>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/1ee07221-0302-4fa1-a5a9-3b3c0dc0ae5f" alt="test">
 
 </div>
+
+<p>
+    Adout me
+</p>
 
 
 
