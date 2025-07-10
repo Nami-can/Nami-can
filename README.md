@@ -16,8 +16,8 @@
 <br>
 <br>
 <br>
-<p align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/assets/line.gif" alt="divider" width="100%">
+<p style="margin: 20px 0;">
+  <img src="https://github.com/user-attachments/assets/af5bd23f-92e0-4e41-bc72-85fdb1ed5262" alt="divider" width="100%">
   <h2 align="center">About me</h2>
 </p>
 <!--
