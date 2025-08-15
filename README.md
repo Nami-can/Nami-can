@@ -2,19 +2,19 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7D32E&width=435&lines=Hi%2C+my+name+is+Nami-sam" alt="Typing SVG" />
-        <div align="right">
+        <div align="center">
             <img src="https://github.com/user-attachments/assets/4b5ae7ef-1c67-4131-9e9a-03a0fc224d45" alt="Git"
         </div>
     </a>
 
 </div>
-<br>
+<!-- <br>
 <br>
 <br>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/1ee07221-0302-4fa1-a5a9-3b3c0dc0ae5f" alt="test">
 
-</div>
+</div> -->
 
 <br>
 <br>
