@@ -2,6 +2,9 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7D32E&width=435&lines=Hi%2C+my+name+is+Nami-sam" alt="Typing SVG" />
+        <div align="">
+            <img src="https://github.com/user-attachments/assets/c12fce85-f116-4bef-b2b4-fc839f861464" alt="Git"
+        </div>
     </a>
 
 </div>
